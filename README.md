@@ -49,11 +49,12 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## My process
 
-1. Creating the Git Repo locally and on GitHub and sync both
-2. Setting up the GitHut pages and testing the deployment flow from end to end (from my local repo to GitHub to GitHub page)
-3. Creating the HTML
-4. Styling the content
-5. Adjusting animations
+- Creating the React App
+- Creating the Git Repo locally and on GitHub and sync both
+- Setting up the GitHut pages and testing the deployment flow from end to end (from my local repo to GitHub to GitHub page)
+- Creating the HTML Content on React
+- Styling the content
+- Adjusting animations
 
 ### Built with
 
@@ -142,9 +143,9 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Med Karche]
+- Frontend Mentor - [@karchemohamed](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@karchemohmaed](https://www.twitter.com/karchemohamed)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
