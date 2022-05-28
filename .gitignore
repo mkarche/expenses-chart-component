@@ -20,6 +20,9 @@
 /.pnp
 .pnp.js
 
+# boilerplate
+/boilerplate
+
 # testing
 /coverage
 
