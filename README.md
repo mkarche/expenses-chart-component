@@ -52,9 +52,11 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Creating the React App
 - Creating the Git Repo locally and on GitHub and sync both
 - Setting up the GitHut pages and testing the deployment flow from end to end (from my local repo to GitHub to GitHub page)
-- Creating the HTML Content on React
-- Styling the content
-- Adjusting animations
+- Creating React Project Structure
+- Creating React components
+- Creating React Pages
+- Creating contents
+- Styling contents
 
 ### Built with
 
