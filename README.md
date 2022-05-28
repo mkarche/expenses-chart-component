@@ -70,6 +70,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### What I learned
 
 - Great challenge for improving my CSS skills combined with Styled-components
+- I learned how to host a React App on Github pages
 
 **Note: Delete this note and the content within this section and replace with your own learnings.**
 
