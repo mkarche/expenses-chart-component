@@ -69,7 +69,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+- Great challenge for improving my CSS skills combined with Styled-components
 
 **Note: Delete this note and the content within this section and replace with your own learnings.**
 

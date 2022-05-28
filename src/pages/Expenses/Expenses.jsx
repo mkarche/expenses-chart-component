@@ -36,6 +36,7 @@ function Expenses() {
 									title={data.day}
 									size={`${data.amount * 3}px`}
 									color="var(--color-primary-cyan)"
+									amount={data.amount}
 								/>
 							) : (
 								<Bar
@@ -43,6 +44,7 @@ function Expenses() {
 									title={data.day}
 									size={`${data.amount * 3}px`}
 									color="var(--color-primary-red)"
+									amount={data.amount}
 								/>
 							)
 						)}
